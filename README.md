@@ -1,14 +1,13 @@
 <p align="center">
-   <a href="https://openbeta.io" rel="nofollow"><img src="./openbeta-logo.png" width="220" alt="OpenBeta logo"></a>
+   <a href="https://openbeta.io" rel="nofollow"><img src="./openbeta-logo.png" width="80" alt="OpenBeta logo"></a>
 </p>
 <h1 align="center">OpenBeta</h1>
----
-<h3 align="center">Open source rock climbing data</h3>
+<h3 align="center">Open source rock climbing</h3>
+<p align="center">OpenBeta is an open source project that provides free and open access to rock climbing data.
+</p>
 
 ## User ratings
-[User ratings](./ratings) extracted from MountainProject.
-
----
+[User ratings data extracted from MountainProject](./ratings)
 
 ## USA climbing routes data
 
