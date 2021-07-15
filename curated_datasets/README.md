@@ -9,3 +9,10 @@ The datasets can be downloaded as compressed (zip) pickles of Pandas data frames
 * CuratedWithRatings_OpenBetaAug2020_RytherAnderson.pkl.zip contains the same data as the previous point but is merged with all the available user rating data.
 * All_Ratings.pkl.zip contains all the user rating data concatenated into one file.
 * Boulder_Safety_and_Stars.csv contains the star ratings and safety grades of 24,278 boulder problems collected by Ryther Anderson using the Mountain Project API. Note that this set is not comprehensive (does not cover all states). However, it can be used to augment to existing Open Beta database in some cases.
+
+## Reading the Files
+The pickle files can be read with Pandas, thus:
+```
+import pandas as pd
+df = pd.read_pickle('CuratedWithRatings_OpenBetaAug2020_RytherAnderson.pkl.zip', compression='zip')
+```
