@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">OpenBeta</h1>
 <h3 align="center">Open source rock climbing</h3>
-<p align="center">OpenBeta is an open source project that provides free and open access to rock climbing data.
+<p align="center">OpenBeta is an open source project that enables open access and innovative uses of data about rock climbing routes.
 </p>
 
 ## User ratings
