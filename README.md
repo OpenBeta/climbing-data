@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://openbeta.io" rel="nofollow"><img src="./openbeta-logo.png" width="80" alt="OpenBeta logo"></a>
+   <a href="https://openbeta.io" rel="nofollow"><img src="./openbeta-logo.png" width="96" alt="OpenBeta logo"></a>
 </p>
 <h1 align="center">OpenBeta</h1>
 <h3 align="center">Open source rock climbing</h3>
@@ -73,6 +73,10 @@ df.sample(5)
 ```
 
 ![sample data](dataset-sample.png "Sample data")
+
+## Contributions
+
+If you'd like new content to OpenBeta climbing-data reposity, please make sure you consult the [Contribution Guidelines](./CONTRIBUTING.md).
 
 ## Questions or Comments?
 [data@openbeta.io](mailto:data@openbeta.io)
