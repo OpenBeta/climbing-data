@@ -1,4 +1,4 @@
-# Contributing to climbing data to OpenBeta project
+# Contributing climbing content to OpenBeta project
 We're glad you want to contribute rock climbing content to OpenBeta project!
 
 ## Code of Conduct
