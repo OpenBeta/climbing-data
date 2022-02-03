@@ -76,7 +76,7 @@ df.sample(5)
 
 ## Contributions
 
-If you'd like new content to OpenBeta climbing-data reposity, please make sure you consult the [Contribution Guidelines](./CONTRIBUTING.md).
+If you'd like to add new content to OpenBeta climbing-data repository, please make sure you consult the [Contribution Guidelines](./CONTRIBUTING.md).
 
 ## Questions or Comments?
 [data@openbeta.io](mailto:data@openbeta.io)
