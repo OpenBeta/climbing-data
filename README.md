@@ -1,9 +1,10 @@
-<p align="center">
-   <a href="https://openbeta.io" rel="nofollow"><img src="./openbeta-logo.png" width="80" alt="OpenBeta logo"></a>
+<p align="center" style="padding-top:1rem">
+  <a href="https://openbeta.io">
+    <img alt="OpenBeta logo" src="openbeta-logo-192x192.png" width="60" />
+  </a>
 </p>
-<h1 align="center">OpenBeta</h1>
 <h3 align="center">Open source rock climbing</h3>
-<p align="center">OpenBeta is an open source project that provides free and open access to rock climbing data.
+<p align="center">OpenBeta is 501c3 nonprofit dedicated to ensuring free and open access to rock climbing data in computer programming, research, and data science endeavors.
 </p>
 
 ## User ratings
@@ -75,4 +76,8 @@ df.sample(5)
 ![sample data](dataset-sample.png "Sample data")
 
 ## Questions or Comments?
-[data@openbeta.io](mailto:data@openbeta.io)
+- Chat with the dev team on <a href="https://discord.gg/fY9DbRav8h">Discord</a>.
+- Email us: [data@openbeta.io](mailto:data@openbeta.io) 
+
+## Support Us
+OpenBeta is free because we want to make climbing information accessible for everyone. Please consider making a donation today.
