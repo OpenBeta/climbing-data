@@ -4,7 +4,7 @@
   </a>
 </p>
 <h3 align="center">Open source rock climbing</h3>
-<p align="center">OpenBeta is 501c3 nonprofit dedicated to ensuring free and open access to rock climbing data in computer programming, research, and data science endeavors.
+<p align="center">OpenBeta is 501(c)(3) nonprofit dedicated to ensuring free and open access to rock climbing data in computer programming, research, and data science endeavors.
 </p>
 
 ## User ratings
@@ -80,4 +80,7 @@ df.sample(5)
 - Email us: [data@openbeta.io](mailto:data@openbeta.io) 
 
 ## Support Us
-OpenBeta is free because we want to make climbing information accessible for everyone. Please consider making a donation today.
+OpenBeta is free because we want to make climbing information accessible for everyone. Please consider [making a donation today.](https://opencollective.com/openbeta)
+
+## License
+[Creative Commons CC0](./LICENSE)
