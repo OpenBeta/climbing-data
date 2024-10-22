@@ -83,4 +83,6 @@ df.sample(5)
 OpenBeta is free because we want to make climbing information accessible for everyone. Please consider [making a donation today.](https://opencollective.com/openbeta)
 
 ## License
-[Creative Commons CC0](./LICENSE)
+
+Python notebooks are licensed under the [Creative Commons CC0](https://creativecommons.org/public-domain/cc0/) license.
+
