@@ -1,0 +1,29 @@
+{
+    "route_name": "Epinephrine",
+    "grade": {
+        "YDS": "5.9",
+        "French": "5c",
+        "Ewbanks": "17",
+        "UIAA": "VI",
+        "ZA": "17",
+        "British": "HVS 5a"
+    },
+    "safety": "",
+    "type": {
+        "trad": true
+    },
+    "fa": "Jorge Urioste, Joanne Urioste, Joe Herbst, 1978",
+    "description": [ ],
+    "location": "",
+    "protection": [],
+    "metadata": {
+        "left_right_seq": "23",
+        "parent_lnglat": [
+            -115.46652,
+            36.03518
+        ],
+        "parent_sector": "Black Velvet Wall",
+        "mp_route_id": "105732422",
+        "mp_sector_id": "105732162"
+    }
+}
